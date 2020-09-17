@@ -1,7 +1,7 @@
-Bottling Machine
-Fill 'er up!
-<&multiblock>The Bottling Machine fills fluids into containers.
-The structure is created as shown above, but can be mirrored. To form it, rightclick the central conveyor with an Engineer's Hammer. The direction of the conveyors is important.<np>
-Fluid is input through the ports on the lower block of the metal tank. Energy is input through the port at the top of the opposing side.
-Generally, the Bottling Machine will be able to fill any container that has a filled version available (bucket, glass bottle). It will also accept other items that can store fluids, like the <link;mining_drill;Mining Drill;start> or a <link;jerrycan;Jerrycan;start>.
-Additionally, special recipes may be available.
+灌裝機
+裝滿它!
+<&multiblock> 灌裝機能夠將液體注入到容器當中.
+搭建結構如上方展示, 輸送帶的方向很重要不過可以鏡像。為了完成該結構，用工程師槌右擊中間的輸送帶.<np>
+液體的輸入端位於底層中央. 能量輸入端位於頂部.
+通常情況下，灌裝機能夠裝填任何可裝填的容器(桶、玻璃瓶)。他同樣能夠接受一些特定的液體容器 <link;mining_drill;採礦機械鑽;start> or a <link;jerrycan;油罐;start>.
+此外, 可能會有更多特殊的配方.
