@@ -1,10 +1,10 @@
-Chemical Thrower
-BURN ALL THE THINGS!
-The Chemical Thrower is a device that propels fluids from its internal tank. The device can be loaded with any fluid, liquid or gas, and, on right click, will spray it out.
-It also features a function to ignite the fluid, if it is flammable. To toggle the pilot light, sneak and rightclick.
-Like some other tools, the chemical thrower can be modified in the <link;workbench;Engineer's Workbench>. These upgrades affect the size of the tank, range and spread.
+化學噴射器
+燒毀一切！
+化學噴射器是一種能夠將內部儲液罐中液體噴射出去的裝置.該裝置能夠裝在任何液體或汽油.而且右鍵就會將其噴灑出去.
+若噴射出的液體是可燃液體，它還有點燃液體的功能.潛行右鍵來使用點火裝置.
+像其它工具一樣，化學噴射器可以在 <link;workbench;工程師裝配台>. 中進行改裝.這些升級將會影響儲罐的大小，噴射的範圍以及噴射速度.
 
-<&large>The §2Large Tank§r increases the fluid capacity of the Chemical Thrower by 2000 mb.
-<&focus>The §2Focused Nozzle§r decreases the spread of fluids sprayed out and also slightly increases their range, allowing you to hit further targets with more precision.
-<&multi>The §2Multitank§r allows the Chemthrower to store up to three different Fluids. You can select the active tank by <config;b;tools.chemthrower_scroll;sneaking and using the scrollwheel, or through use of;using> the keybind §l<keybind;key.immersiveengineering.chemthrowerSwitch>§r if it has been set in the options.
-This upgrade is mutually exclusive to the §2Large Tank§r.
+<&large>The §2大型燃料缸§r 能增加噴射器2000mb的油箱容量.
+<&focus>The §2聚焦噴嘴§r 減少了噴出液體的擴散，並略微增加了其射程，使您可以更精確地擊中更多目標。
+<&multi>The §2多重儲罐§r 讓化學噴槍增加三種不同的流體。 可以 <config;b;tools.chemthrower_scroll;潛行時用滾輪,或是使用;using> 按鍵切換(如果你有設定) §l<keybind;key.immersiveengineering.chemthrowerSwitch>§r 來切換不同的液體.
+這個升級和 §2大型燃料缸§r 互相衝突.
