@@ -1,22 +1,19 @@
-Conveyor Belts
-Who needs rails anyway?
-<&conveyor_recipes>Conveyor Belts are an easy way of transporting all sorts of things around your base. While they are strong enough to move living creatures like cows or sheep, their true strength lies in transporting items.
-Throwing items atop them will have the items move along the belt. Should the belt lead into an inventory, the item will be inserted.
-Blocks like hoppers will be able to drop items onto the belts (rightclick) or adjust whether they should run up- or downwards (sneak + rightclick).
-Rightclicking a conveyor with any dye will colour the walls of the conveyor to easily identify where is is going.<np>
-<&conveyor_redstone_recipe>The Redstone Controlled Conveyor Belt can be disabled with a redstone signal.
-The panel on its side allows attaching a lever, but a redstone signal may be input from any direction. Sneak + rightclick with an Engineer's Hammer to move the panel to the other side.<np>
-<&conveyor_dropper_recipe>The Dropping Conveyor Belt is quite simply a conveyor with a hatch in the middle, allowing it to drop items that pass over it downwards.
-Items will be inserted into inventories below or simply dropped if there is an empty space below the conveyor.
-The hatch can be shut with a redstone signal, when desired.<np>
-<&conveyor_extract_recipe>The Extracting Conveyor Belt possesses the ability to extract items from an inventory in a similar fashion to a Hopper. Unlike the latter however, it possesses no internal inventory and will place extracted items onto the belt.
-Sneak + rightclick with an Engineer's Hammer to change its input side. Use the Engineer's Screwdriver to adjust the speed at which it extracts.<np>
-<&conveyor_vertical_recipe>The Vertical Conveyor Belt is a belt meant to be mounted on walls. Using the buckets attached to is, it will lift entities straight up. Despite the use of the term "bucket", it will not lift fluids.
-This belt can insert into inventories above it or simply expel items over the edge at the top onto more conveyors.<np>
-<&conveyor_splitter_recipe>The Splitting Conveyor Belt alternates between redirecting Items and Entities left and right, plain and simple. This feature can be used to achieve a more equal distribution in your factories.<np>
-<&conveyor_covered_recipe>The Covered Conveyor Belt works just like a normal conveyor, however it is covered by a piece of scaffolding, which prevents players from picking up items from it.
-You can rightclick it with other types of scaffold or glass to change the cover's appearance.<np>
-<&conveyor_other_covered_recipes>Similarly, the Dropping, Extracting, Splitting and Vertical Conveyors can also be covered in scaffolding to achieve the same benefits of "pickup-prevention" while still functioning as they normally do.
-<&chute_recipes>Chutes are simple constructions made from sheetmetal that allow entities to drop down straight.
-They can insert into inventories below them and be inserted into by conveyors or similar devices. Items within them won't be picked up by players and should be immune to most forms of attraction, magnetic or magical.
-Sneak + rightclick with an Engineer's Hammer to turn the chute into a corner piece that directs an entity to the side.
+輸送帶
+誰還需要鐵路?
+<&conveyor_recipes>輸送帶運輸是把附近物品搬回家的便捷途徑，當它有足夠的動力時可以搬運像是牛，羊之類的生物，它們真正的優勢在於物品的運輸.
+把物品丟到輸送帶上即可實現搬運.如果末端是能夠接收物品的容器，那物品將會被放入到容器裡。
+對著輸送帶的漏斗可以把物品輸出為可掉落形態，使用工程師槌右擊可以轉動輸送帶的方向，潛行時右擊則可調整為上行或下行.
+右鍵點擊帶有任何染料的輸送帶，將使輸送帶變色，以輕鬆識別要傳輸的地方.<np>
+<&conveyor_redstone_recipe>可以通過紅石信號停止紅石控制的輸送帶.
+側面的面板允許安裝操縱桿，但是可以從任何方向輸入紅石信號。 潛行並用工程師的錘子右鍵單擊以將面板移到另一側。<np>
+<&conveyor_dropper_recipe>卸貨輸送帶僅僅是普通輸送帶中間多了一個艙口，允許貨物從中間傳輸到下面.
+物品會自動輸送進下放的存儲容器或者，如果下方是空的物品會被扔在地上.如果有需要，可以用紅石信號關閉艙口.<np>
+<&conveyor_extract_recipe>提取輸送帶具有和漏斗類似的功能，可以將物品從容器中取出，但是和漏斗不一樣的是，它沒有內部儲存空間，它會直接將提取的物品放到輸送帶上.潛行+工程師槌右鍵可以更改它的輸入面。使用工程師的螺絲刀調整其提取速度。<np>
+<&conveyor_vertical_recipe>垂直輸送帶可以貼在牆上，使垂直運輸物品稱為可能。由於輸送帶還是不能直接運輸液體，因此你可以利用桶子盛裝液體來傳輸
+這種輸送帶可以自動將物品輸入容器中，也可以接收上面的輸送帶掉下來的物品.<np>
+<&conveyor_splitter_recipe>分流輸送帶的功能很簡單，將運送來的物品和實體不斷交替地分流到左右兩側，籍此可以讓你的物品均勻地分配到多個工廠裡。<np>
+<&conveyor_covered_recipe>鷹架輸送帶的工作原理與普通輸送帶相似，但是它被一個鷹架覆蓋，防止玩家從中拾取物品.可以用其他類型的鷹架或玻璃點擊它以更改它的外觀。<np>
+<&conveyor_other_covered_recipes>同樣的，提取和垂直輸送帶也可以用鷹架進行覆蓋，以達到防止玩家從中拾取物品的效益，同時仍然像平時一樣運作。
+<&chute_recipes>金屬通道是由鈑金製成的簡單結構.可以讓物體垂直下降.
+它們可以穿插在物品間.也能被輸送帶或類似設備鑲嵌. 其中的物品不會被玩家拾取，並且應不受大多數形式的吸引力（磁性或魔法）的影響.
+用工程師的錘子+右鍵，將金屬通道變成將實體導向側面的角件。
