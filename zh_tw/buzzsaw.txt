@@ -1,11 +1,10 @@
-Buzzsaw
+電鋸
 We Don't Go To Ravenholm
-<&recipes>This large, portable buzzsaw is designed to make quick work of trees and other pieces of foliage that may stand in the way of a pristine factory building.
-After using the <link;workbench;Engineer's Workbench;start> to place a sawblade in it, and loading it with  <link;refinery;Biodiesel;start> or another fuel, it can be used to carve through everything from small birches to large jungle trees.
+<&recipes>電鋸設計用於加快清理阻礙工廠建築的樹木或其他方塊.
+在使用 <link;workbench;工程師裝配台;start> 放置鋸片並向其添加  <link;refinery;生物柴油;start> 或其他燃料後, 它可以用來砍倒小從樺樹大到叢林樹木的所有東西.
 
-Like some other tools, the buzzsaw can be modified in the <link;workbench;Engineer's Workbench>. These upgrades affect the size of the internal tank and the durability of its sawblade.
-<np>
-<&rockcutter_recipe>By replacing the normal saw- blade with a §2Rockcutter Blade§r, the buzzsaw can be used to cleanly cut cubes of stone from the ground, much like the §2Silktouch§r enchantment. However, the diamond tipped blade is no longer useful in carving through wood or felling trees.<np>
-<&tank_recipe>The §2Large Tank§r increases the fluid capacity of the buzzsaw by 2000 mb.<np>
-<&lube_recipe>The §2Advanced Lubrication System§r applies additional lubricant to the sawblade, reducing the speed at which it loses durability.<np>
-<&quiver_recipe>By attaching the §2Blade Quiver§r to the side of the buzzsaw, you can carry two additional sawblades along. You can cycle between the stored blades by <config;b;tools.chemthrower_scroll;sneaking and using the scrollwheel, or through use of;using> the keybind §l<keybind;key.immersiveengineering.chemthrowerSwitch>§r if it has been set in the options.
+像其他一些工具一樣，可以在 <link;workbench;工程師裝配台> 中進行修改. 這些升級會影響內部油箱的尺寸及其鋸片的耐用性。<np>
+<&rockcutter_recipe>通過用 §2鑽石鋸片§r, 可以像使用 §2絲綢之觸§r 附魔一樣.用電鋸將地面上的石材乾淨地切開。 但是，帶鑽石的刀片在砍木頭或砍伐樹木時沒有效果.<np>
+<&tank_recipe>The §2大型油桶§r 能增加電鋸2000mb的油箱容量.<np>
+<&lube_recipe>The §2高級潤滑系統§r 將額外的潤滑劑施加到鋸片上，減少鋸片耗損的速度.<np>
+<&quiver_recipe>通過將 §2刀刃震動器§r 附加到電鋸的側面，可以隨身攜帶兩個附加的鋸片。並能使用滾輪 <config;b;tools.chemthrower_scroll;sneaking and using the scrollwheel, or through use of;using> (或者使用快捷鍵如果它已經被設定) §l<keybind;key.immersiveengineering.chemthrowerSwitch>§r 來在存儲的刀片之間循環
