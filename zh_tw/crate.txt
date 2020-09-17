@@ -1,7 +1,7 @@
-Wooden Storage Crate
-Move that gear up!
-<&normal>Wooden storage crates are blocks quite similar to a chest. Crafted with treated wood, they offer 27 slots of storage, however, when broken, they will keep that storage, allowing you to move them together with their contents.
-Like chests, they will output a comparator signal based on the amount of items stored.
+木製儲物箱
+移動那個裝備！
+<&normal>木質儲存箱和普通箱子十分相近.它由處理過的木材精緻而成，內有27個物品格，但被打破時物品不會掉出來，玩家籍此可以攜帶大量物品.
+和箱子一樣，它也可以根據物品的量輸出比較器信號.
 
-<&reinforced>The reinforced storage crate offers the same capacity as a normal crate, but unlike them, these creates are impervious to explosions. No longer will pesky creepers or ill-placed mining charges destroy your valueables!
-The upgrade recipe will keep the contents of the crate.
+<&reinforced>強化儲物箱擁有和普通木質儲物箱一樣的容積，但強化版本提供了更好的抗爆性能.從此你再也不用擔心那些惹人厭的苦力怕，或者誤放的採礦炸藥把你價值連城的箱子炸掉了!
+同時，在儲物箱升級時，其內容物也會得到保留.
