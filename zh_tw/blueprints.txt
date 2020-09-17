@@ -1,3 +1,3 @@
-Engineer's Blueprints
-Back to the drawing board
-This page features all Engineer's Blueprints that can be crafted by normal means. Other Blueprints may need to be acquired from villagers or found in the world. All of these can be used in an <link;workbench;Engineer's Workbench> to craft the items they describe.
+工程師藍圖
+回歸到繪圖板
+此頁面包含所有可以通過常規方法製作的工程師藍圖. 其他藍圖可能需要從村民那裡獲得或在世界上找到. 所有的藍圖都能用 <link;workbench;工程師裝配台> 去製作藍圖記載的物品.
