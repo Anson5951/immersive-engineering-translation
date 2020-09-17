@@ -1,7 +1,7 @@
-Diesel Generator
-Better than volume: More volume.
-High-Voltage architecture might be fascinating, but it's not very useful unless you have a generator that can actually create the required output for it.
-The Diesel Generator is one of the few ways of generating this sort of energy. It is created as a complex multiblock structure and will run off of <link;refinery;Biodiesel> or other types of combustible fuel. Due to its high output, it will work through fuel very quickly, so make sure you have a sufficient fuel production to run it.
-<&structure>The structure is built from Engineering, Generator and Radiator blocks as well as Fluid Pipes and Scaffolding. Arrange them in the shape shown above and rightclick the central generator with an Engineer's Hammer.
-Fuel is to be input at the bottom corners of the generator, whereas energy will be output to up to three connections on the top. The <config;i;machines.dieselGen_output>Flux/t the generator outputs will be split between all connected points. The generator will only run when at least one output can accept energy.
-The small terminal on the side will turn off the generator if supplied with a redstone signal, this behavior can be inverted by use of the Engineer's Hammer.
+柴油發電機
+比產量更重要的是：更高的產量
+高電壓結構是令人著迷的，但要讓它變得有用，你得有一個發電機來輸出能源.
+柴油發電機是其中一種產生這類能量的方式.它由複雜的多方塊方式組成並且將要用到 <link;refinery;生物柴油> 或者是其他燃料.由於其產出高，它將會快速消耗燃料來運作，所以請確保你有足夠的燃料來支撐它的運轉.
+<&structure>該機械由工程塊、發電機、散熱器塊組成，同時還用到了液體管道以及鷹架.將這些零件如上方所示形狀放置好，接著用工程師槌子敲一下位於中央的任意發電機模塊或散熱器模塊即可.
+燃料需要從發電機的底部位置輸入，而能量的輸出口允許增加至三個.它所擁有的 <config;i;machines.dieselGen_output>Flux/t 的輸出量將會平均分散在各個連接點上. 只有當至少一個輸出運作時，發電機才會運作。
+用紅石信號啟動右側的控制台可以關閉發電機.可以通過使用工程師錘子來反轉。
