@@ -1,9 +1,8 @@
-Crafting Components
-Integral Pieces
-<&mech_components>Many machines and tools are constructed from various sub-components. Some of these you will have to use on a regular basis, which is why they have their own entry in this manual. The §2Iron§r and §2Steel Mechanical Components§r are integral to the majority of Multiblocks and machinery.<np>
-<&create_bp>As you will find yourself creating these components more frequently, it may be advisable to draft a <link;blueprints;Blueprint> for them. Using this blueprint in an <link;workbench;Engineer's Workbench> will allow you to construct the components at a reduced cost.
-The workbench recipes are found on the following page.<np>
-<&tubes>Another, albeit less frequently used component are §2Vacuum Tubes§r. These glass tubes are used as elements in electronic machinery and used in <link;lighting;light emitting devices>.<np>
-<&pcb>A rarely used, but crucial component in advanced machinery that requires precise calculation is the §2Circuit Board§r. They are impractically large and clunky, but can perform basic mathematic operations in under a second!
+製作元件
+完整的一部份
+<&mech_components>許多機器和工具由各種子元件構成。其中有些需要定期使用，這就是為什麼他們在本手冊中有自己的條目. §2鐵質§r 跟 §2鋼質§r 機械元件是大多數多方塊結構和機械不可缺少的部分。<np>
+<&create_bp>正如你會發現自己更頻繁製作這些元件，建議為他們製作一個 <link;blueprints;藍圖>. 在 <link;workbench;工程師裝配台> 中使用此藍圖將降低零件成本。工作臺的配方可在以下頁面找到.<np>
+<&tubes>另一個，儘管不太經常使用的元件是 §2真空管§r.這些真空管被用作電子機械中的元件，並用於 <link;lighting;發光裝置>.<np>
+<&pcb>在需要精確計算的先進機械中，很少使用但非常重要的組件是 §2電路板§r. 它們不切實際龐大笨重，但可以在一秒鐘內完成基本的數學運算！
 
 
