@@ -1,6 +1,6 @@
-Crude Blast Furnace
-Simple Steel
-<&block>The Crude Blast Furnace is used to increase the carbon contents in iron, turning it into steel. To achieve this, only pure, high-carbon fuels may be used for the furnace, specifically coal coke and charcoal.
-Along with steel, the furnace will also create slag, which you must remove or the furnace will cease to function. While technically a waste product, you can use slag to create concrete.
-<&multiblock>To form a Blast Furnace, arrange 27 of these blocks in a 3x3x3 cube, and rightclick one of the sides' center blocks with an Engineer's Hammer.
-See the following page for a diagram. The Crude Blast Furnace is not automateable. All in- and outputs must be arranged manually through its GUI. If you want to automate the creation of steel, you should probably look into creating an <link;improved_blast_furnace;Improved Blast Furnace;>.
+粗製高爐
+簡易煉鋼
+<&block>粗製高爐用於提高鐵的含碳量，使之成為鋼.為了達成目的，只有含碳量高的燃料才被高爐所接受，特別是焦煤和木炭.
+伴隨著鋼的冶煉，高爐冶煉還會產生礦渣，你必須定期清除否則高爐便會停止工作.理論上來說礦渣屬於廢棄物，但你還是可以用它來合成混凝土.
+<&multiblock>搭建一個高爐，你需要用這27個方塊搭建出3x3x3的結構，然後用工程師槌右擊其中一面的中央方塊.
+見下一頁的圖. 粗製高爐無法自動化生產.所有輸入輸出必須通過手動打開GUI完成.如果你想要自動化冶煉鋼鐵，你可能需要查看 <link;improved_blast_furnace;精製高爐;>的詳細介紹.
