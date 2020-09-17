@@ -1,4 +1,4 @@
-Coke Oven
-Hot topic!
-<&recipe>The Coke Oven is the first important machine you will need to create in order to proceed with Immersive Engineering. Its functionality is simple, it will heat up coal or blocks of coal without supplying it with oxygen, creating Coal Coke, a carbon rich fuel. More importantly, this process creates §lCreosote Oil§r, which is used as a <link;treated_wood;preservative for wood>. Similarly you can also burn wooden logs into charcoal with this oven, albeit with a smaller yield of creosote. <&multiblock>To form a Coke Oven, arrange 27 of these blocks in a 3x3x3 cube, and rightclick one of the sides' center blocks with an Engineer's Hammer.
-See the following page for a diagram.
+焦爐
+熱門焦點！
+<&recipe>焦爐是你在發展擬真工業時所建造的第一台重要設備.它的功能十分簡單：讓煤以及煤塊在無氧環境下進行燃燒以產出焦煤，一種能長時間燃燒的燃料.更重要的是，這一加工過程能產生出 §l雜酚油§r, 它被用於 <link;treated_wood;防腐木>的製作.同樣你可以用原木在裡面燒製得到木炭，同時得到少量的雜酚油. <&multiblock>搭建一個焦爐，首先需要27個焦爐方塊搭建出一個3x3x3的正方體結構，然後用工程師槌右擊側面的中心來完成建造.
+參見下圖。
