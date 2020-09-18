@@ -1,8 +1,8 @@
-Mining Drill
-My drill will pierce the Bedrock!
-<&drill_base_recipes>The handheld, diesel-powered drill is a big advancement in mining. With exchangeable drill heads and upgrades, its properties are almost entirely modifiable. To modify it, place it in an <link;workbench;Engineer's Workbench;start>. The drill runs off of <link;refinery;Biodiesel;start> and can be filled directly in the refinery.<np>
-<&drill_head_recipes>The §2Drill Head§r determines the base §2mining level§r, §2speed§r, and §2size§r, as well as the §2attack damage§r. As you dig blocks, the drill head takes damage, but it can be repaired in an anvil.<np>
-<&drill_waterproof_recipe>As the drill is powered by a combustion engine, it will not run underwater unless you equip it with the §2Pressurized Air Tank§r Upgrade. However, with this upgrade equipped, it will not only run while submerged, but also ignore the slowdown usually experienced when digging in water.<np>
-<&drill_lube_recipe>The §2Advanced Lubrication System§r applied additional lubricant to the drill at a regular basis, decreasing the durability loss of the drill head.<np>
-<&drill_damage_recipe>By adding §2Additional Augers§r to the drill, its destructive potential is increased, increasing its damage against living creatures and allowing it to run and dig faster. The upgrade stacks up to three times.<np>
-<&drill_capacity_recipe>The §2Large Fuel Tank§r allows the drill to store more fuel internally, extending the time you can use it before refilling.
+採礦機械鑽
+我的鑽頭將突破基岩！
+<&drill_base_recipes>這把手持的柴油動力機械鑽是採礦領域的一次卓越進步.通過可更換的鑽頭和升級，它的性能幾乎可以自由調整.想要改造它，只需將其放入 <link;workbench;工程師配裝台;start>. 如果機械鑽的 <link;refinery;生物柴油;start> 耗盡，可以直接在煉油廠中填滿.<np>
+<&drill_head_recipes> §2鑽頭§r 將決定基礎 §2採礦等級§r, §2速度§r, and §2範圍§r, 以及 §2攻擊傷害§r. 當你在挖掘方塊時，鑽頭會受到磨損，但它能夠在鐵砧中被修復.<np>
+<&drill_waterproof_recipe>因為機械鑽由內燃機驅動，它無法在水下工作，除非你為它安裝了 §2壓縮空氣罐§r，而在安裝這項升級後，它不僅能在水下工作，水下挖掘所造成的遲緩也會消失不見.<np>
+<&drill_lube_recipe> §2高級潤滑系統§r 在正常基礎上為機械鑽提供了額外的潤滑效果，使其運轉與挖掘更加快速.<np>
+<&drill_damage_recipe>通過為機械鑽添加 §2附加螺旋鑽§r ，能增加對生物的傷害.並使其運轉和挖掘速度更快，最多可升級三次<np>
+<&drill_capacity_recipe> §2大型燃料缸§r 能讓機械鑽在內部存儲更多燃料，延長使用時間.
