@@ -5,6 +5,6 @@ We Don't Go To Ravenholm
 
 像其他一些工具一樣，可以在 <link;workbench;工程師裝配台> 中進行修改. 這些升級會影響內部油箱的尺寸及其鋸片的耐用性。<np>
 <&rockcutter_recipe>通過用 §2鑽石鋸片§r, 可以像使用 §2絲綢之觸§r 附魔一樣.用電鋸將地面上的石材乾淨地切開。 但是，帶鑽石的刀片在砍木頭或砍伐樹木時沒有效果.<np>
-<&tank_recipe>The §2大型油桶§r 能增加電鋸2000mb的油箱容量.<np>
-<&lube_recipe>The §2高級潤滑系統§r 將額外的潤滑劑施加到鋸片上，減少鋸片耗損的速度.<np>
+<&tank_recipe>§2大型油桶§r 能增加電鋸2000mb的油箱容量.<np>
+<&lube_recipe>§2高級潤滑系統§r 將額外的潤滑劑施加到鋸片上，減少鋸片耗損的速度.<np>
 <&quiver_recipe>通過將 §2刀刃震動器§r 附加到電鋸的側面，可以隨身攜帶兩個附加的鋸片。並能使用滾輪 <config;b;tools.chemthrower_scroll;sneaking and using the scrollwheel, or through use of;using> (或者使用快捷鍵如果它已經被設定) §l<keybind;key.immersiveengineering.chemthrowerSwitch>§r 來在存儲的刀片之間循環
