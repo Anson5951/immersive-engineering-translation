@@ -1,6 +1,6 @@
-Capacitor Backpack
+電容器背包
 Do....Ray....Egon!
-Energy storage takes space and some heavy weight components. As such, storing large amounts of energy in each tool individually is inefficient and makes them akward to wield.
-The Capacitor Backpack acts as a compromise, offering a centralized storage of energy for any powered tools to tap into.
-The backpack charges any tools held in main- or offhand as well as any armorpieces you are wearing.
-The capacitor can be worn on your back like a piece of chest armor, or you may attach it to most common sets of armor in order to gain the benefit of a power-supply as well as protection.
+能量儲存需要空間和一些重量級的元件。因此，單獨在每個工具中儲存大量能量是沒有效益的，這會使得它們很難使用。
+電容器背包作為一種折衷方案，為任何動力工具提供集中儲存能量的空間。
+背包可以為你身上任何主、副手工具和裝甲充電。
+電容器可以像胸甲一樣穿在背上，也可以附加在大多數的裝甲上，提供好處及替代保護的電力支援。
