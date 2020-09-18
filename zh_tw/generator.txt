@@ -1,7 +1,7 @@
-Power Generation
+動能發電機
 
-<&dynamo_recipe>Transferring power is quite helpful provided you have power. To actually generate Flux, you can use the kinetic forces of windmills and waterwheels. Connecting these to a dynamo will generate power based on how fast they turn.<np>
-<&waterwheel_recipes>The Water Wheel is a fairly easy way of powering a dynamo. It's turning speed is based on the water flowing around it, so for optimal results, you'll want to direct the water in a semi-circle from the top down one side and along the bottom. Up to three water wheels can be placed against each other.<np>
-<&windmill_recipes>The Windmill is a free and easy way of generating power, albeit not a very powerful one. Its speed depends the space in front of it, with its kinetic output reducing greatly if the airflow is obscured. Additionally, weather conditions like rain or thunderstorms result in stronger winds and increased rotation speeds.<np>
-<&sail_recipe>Your wind-based power generation can be improved by covering the blades of your windmill in cloth. Doing so increases the surface area and with it the rotation speed and energy output.
-The required sails are crafted from <link;hemp;tough hemp fabric;start> and applied to the windmill by rightclicking it in world.
+<&dynamo_recipe>動能對於提供能量會非常有幫助. 要實際產生能量，可以使用風車和水車的動力。 將它們連接到發電機將根據它們旋轉的速度來發電。.<np>
+<&waterwheel_recipes>水車是給發電機供電的一種相當簡單的方法. 它的旋轉速度取決於周圍的水流，因此為了獲得最佳效果，您需要將水從上到下沿一側和底部沿半圓引導。 最多可以同時放置三個水車.<np>
+<&windmill_recipes>風車雖然沒有很強大的動能，卻是一種自由而容易的發電方式。 它的速度取決於它前面的空間，如果氣流被遮擋，其動力輸出會大大降低。 此外，降雨或雷暴等天氣條件會導致強風和更高的旋轉速度.<np>
+<&sail_recipe>通過用布覆蓋風車的葉片，可以改善基於風的發電。 這樣做會增加表面積，並隨之增加轉速和能量輸出.
+風車風帆是從 <link;hemp;堅韌布料;start> 中製作出來的，拿著對風車右鍵將其應用於風車.
