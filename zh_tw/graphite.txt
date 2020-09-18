@@ -1,5 +1,4 @@
-Graphite
-Coal stuff
-Highly Ordered Pyrolytic Graphite (HOP) is a complex, highly compressed, carbon material used in special engineering constructs.
-HOP Graphite Dust is created by compressing eight pieces of Coke Dust in the <link;squeezer;Industrial Squeezer>. That dust can then be smelted into an ingot.
-<&electrode>The most common use for HOP Graphite is the creation of electrodes to be used in the <link;arc_furnace;Arc Furnace>. These electrodes are created with an <link;blueprints;Engineer's Blueprint>, which you can<config;b;machines.arcfurnace_electrodeCrafting; craft,> find in certain chests or trade with a villager. You can also create electrodes in the metal press, using the rod mold on 4 ingots, but the electrodes crafted this way have less durability.
+石墨
+煤炭工業產品
+高定向熱解石墨(HOP)是一類結構複雜，且高度壓縮的碳材料，常用於特種工程結構.HOP石墨粉可由八份焦煤粉在 <link;squeezer;工業擠壓機>. 中加工製得.這種粉末進一步燒製可得到HOP石墨錠.
+<&electrode>HOP石墨廣泛用於製作 <link;arc_furnace;電弧爐>. 中的電極.製造這些電極需要用到 <link;blueprints;工程師藍圖>, 這種藍圖可在戰利品箱子中找到<config;b;machines.arcfurnace_electrodeCrafting; 能合成取得,> 亦可與村民交易得到. 還可以用金屬沖壓機製作石墨電極，這需要用到棍模具，單根電極消耗四塊HOP石墨，但此法製作的電極耐久較低.
