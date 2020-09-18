@@ -1,4 +1,4 @@
-Excavator
-Better than Dwarves
-<&excavator>The Excavator is one of the pinnacles of modern engineering. It is able to dig up <link;minerals;minerals> from veins inaccessible by normal mining. In return however, the excavator is a complex structure which requires <config;i;machines.excavator_consumption> Flux/t in order to operate.
-<&wheel><&full>The structure is comprised of two pieces: The engine shown on the first page and the bucket wheel displayed on the second, which fits into the 'braces' of the engine as displayed on the previous page. The energy input for the engine is on its side, the back features a redstone control panel and the item output.<br>As the excavator digs up ores, the yield of the vein slowly decreases, but a vein of minerals can provide up to <config;i;machines.excavator_yield> blocks of ore.
+斗輪式挖掘機
+比矮人更為高效
+<&excavator>斗輪式挖掘機可謂是現代機械的巔峰之作.它能夠將正常挖礦採集不到的 <link;minerals;礦物> 從礦脈中挖掘出來.作為代價，斗輪式挖掘機擁有極為複雜的結構，並且需要消耗 <config;i;machines.excavator_consumption> Flux/t 來維持運作.
+<&wheel><&full>結構由兩部分組成：第一頁中的機器和前一頁展示的斗輪，它正好能夠嵌入機器的“吊帶”位置.能量輸入端在機器的側面，後面添加了紅石控制台以及物品輸出口.<br>當挖掘機開採礦物時，礦脈的範圍會緩慢減小，不過一個礦脈能夠提供最多 <config;i;machines.excavator_yield> 的礦物.
