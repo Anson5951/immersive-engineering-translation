@@ -1,7 +1,6 @@
-Lightning Rod
-Thunderstruck!
-Lightning is a phenomenon of nature. It contains a huge amount of raw power, and this lightning rod is able to harness that power.
-By stacking a lot of steel fences on this multiblock, you increase the chance of a lightning bolt striking it during rain or thunderstorms.
-When the steel pole is struck, the huge amounts of energy created are stored in the base of the lightning rod and then slowly distributed to the energy connections at the sides.
-
-You can improve the chances of the Lightning Rod getting struck by creating a "net" of steel fences connected to the topmost fence.
+避雷針
+雷擊！
+閃電是一種自然現象.它包含了大量的原始力量，而避雷針能夠駕馭這種力量.
+在多方塊結構上堆疊大量鋼柵欄，能增加在雨天或打雷時閃電擊中它的機率.
+當鋼柱被擊中時，產生的大量能量會被儲存在避雷針中然後緩慢的傳輸到側面的能量連接點.
+可以通過在最頂端的鋼柵欄搭建一個相互連接的鋼柵欄"網"來增加避雷針被擊中的機率.
