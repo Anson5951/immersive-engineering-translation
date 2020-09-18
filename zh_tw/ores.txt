@@ -1,14 +1,14 @@
-Ores
-Diggy diggy hole
-<&copper>§lCopper Ore§r is found in the world between layers <config;i;ores.copper.min_y> and <config;i;ores.copper.max_y>, and requires a Stone Pickaxe to harvest.
-The ore will smelt into copper ingots, which are used in crafting basic copper wires, coils, and other integral parts of the IE architecture.
-<&alu>§lBauxite Ore§r is found in the world between layers <config;i;ores.bauxite.min_y> and <config;i;ores.bauxite.max_y>, and requires a Stone Pickaxe to harvest.
-The ore will smelt into aluminium ingots, which, together with steel, are used to create high-voltage wires.
-<&lead>§lLead Ore§r is found in the world between layers <config;i;ores.lead.min_y> and <config;i;ores.lead.max_y>, and requires an Iron Pickaxe to harvest.
-The ore will smelt into lead ingots, which are used in creating capacitors.
-<&silver>§lSilver Ore§r is found in the world between layers <config;i;ores.silver.min_y> and <config;i;ores.silver.max_y>, and requires an Iron Pickaxe to harvest.
-The ore will smelt into silver ingots, which alloy with gold to create electrum, a far more effective conductor.
-<&nickel>§lNickel Ore§r is found in the world between layers <config;i;ores.nickel.min_y> and <config;i;ores.nickel.max_y>, and requires an Iron Pickaxe to harvest.
-The ore will smelt into nickel ingots, which alloy with copper to create constantan, a heat resistant conductor used in the creation of <link;thermoelectric;Thermoelectric Generators;start>.
-<&uranium>§lUranium Ore§r is found in the world between layers <config;i;ores.uranium.min_y> and <config;i;ores.uranium.max_y>, and requires an Iron Pickaxe to harvest.
-The ore will smelt into uranium ingots, but there are currently not many uses for the metal. A uranium block can serve as a heatsource for the <link;thermoelectric;Thermoelectric Generator;start> and the metal will be used in future endeavours.
+礦石
+挖吧！挖吧！挖洞吧！
+<&copper>§l銅礦石§r 能在主世界 <config;i;ores.copper.min_y> 到 <config;i;ores.copper.max_y>層找到, 需要用石鎬開採.
+這種礦物冶煉成銅錠，用於製作基礎銅導線，線圈，以及一些工程的建築元件的原材料.
+<&alu>§l鋁土礦石§r 能在主世界 <config;i;ores.bauxite.min_y> 到 <config;i;ores.bauxite.max_y>層找到, 需要用石鎬開採.
+這種礦物能冶煉出鋁錠，與鋼一同加工能做出高壓電線.
+<&lead>§l鉛礦石§r 能在主世界 <config;i;ores.lead.min_y> 到 <config;i;ores.lead.max_y>層找到, 需要用鐵鎬開採.
+這種礦物能冶煉出鉛錠，用來製作電容.
+<&silver>§l銀礦石§r 能在主世界 <config;i;ores.silver.min_y> 到 <config;i;ores.silver.max_y>層找到, 需要用鐵鎬開採.
+這種礦物能冶煉出銀錠，與黃金一同加工能做出琥珀合金，它是一種更為高效的導體.
+<&nickel>§l鎳礦石§r 能在主世界 <config;i;ores.nickel.min_y> 到 <config;i;ores.nickel.max_y>層找到, 需要用鐵鎬開採.
+這種礦物能冶煉出鎳錠，與銅錠一同加工能做出康銅合金，用於製作 <link;thermoelectric;熱傳導發電機;start> 中的耐熱導線.
+<&uranium>§l鈾礦石§r 能在主世界 <config;i;ores.uranium.min_y> 到 <config;i;ores.uranium.max_y>層找到, 需要用鐵鎬開採.
+這種礦物能冶煉出鈾錠，但目前沒有多少用途的金屬. 鈾塊可以用作 <link;thermoelectric;熱傳導發電機;start>的熱源，並且金屬將在未來的工作中使用.
