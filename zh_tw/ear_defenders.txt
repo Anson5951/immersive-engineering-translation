@@ -1,7 +1,7 @@
-Ear Defenders
-LOUD NOISES!
-<&recipe>Ear Defenders are devices for protecting your hearing. They are quite important for engineers that work in close proximity to <link;diesel_generator;Diesel Generators;> or other loud machinery.
-While wearing Ear Defenders, all noises are reduced by 90%.
-<&color_and_armor>Placing the Ear Defenders in the <link;workbench;Engineer's Workbench;> allows you to specify which types of noises you want cancelled and by how much their volume should be reduced.
-You can dye them like you would leather armor.
-Crafting them with any other helmet will attach the defenders to that piece of equipment, crafting the helmet alone will remove the defenders again, to allow further customizing.
+隔音耳罩
+好大的噪音啊啊啊!!!
+<&recipe>隔音耳罩是保護聽力的設備.這個小東西對於那些一直工作在 <link;diesel_generator;柴油發電機;> 或其他機械旁的工程師來說至關重要.
+當佩戴此耳罩時，噪音將減弱90%.
+<&color_and_armor>在 <link;workbench;工程師裝配台;> 中可對隔音耳罩進行詳細設定，比如選擇性過濾一些噪音，以及降噪的幅度.
+還能像皮革護甲一樣染色.
+將其與其它任何形式的頭盔合成在一起後，就可為目標頭盔附加上隔音的效果，再次將其合成可將耳罩移除並返還，方便進一步修改自定義設置.
