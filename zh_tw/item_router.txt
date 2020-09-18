@@ -1,5 +1,4 @@
-Item Router
-Left foot yellow, right hand green
-<&recipe>The Item Router is a block which will accept and redistribute items down filtered paths. Place it down and rightclick it to open the interface, which shows six different colour and direction coordinated filters.<np>
-When an item enters the router, it will be routed to an output whose filter matches the item, or, if no matching filter is found, it routes to an unfiltered output. If the router cannot route the item in the first place, it will not allow the item to enter the router.
-Items also can not be output to the side it was inserted from. The buttons above each filter can be used to have the router respect or ignore OreDictionary, NBT and Metadata.
+物品路由器
+左腳放黃色上，右手放綠色上
+<&recipe>物品路由器能夠接受物品並重新分配它們.將其放置並右鍵可打開GUI，會顯示出六種根據顏色和方向劃分的過濾器.<np>
+當物品進入到路由器後，它會被轉至與其相匹配的輸出口，或者，如果沒有相匹配的輸出口，它會被轉入未設置過濾的輸出口.如果物品無法被分配，它將無法進入路由器.物品同樣無法被輸出到它進入路由器的方向.每個過濾器上方的按鈕可讓路由器接受或忽略OreDictionary，NBT和Metadata
