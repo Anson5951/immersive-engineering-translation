@@ -1,6 +1,6 @@
-Fermenter
-Skál!
-The Fermenter is a multiblock structure that extracts ethanol from certain fruits, grains and vegetables through a fermenting process. The structure is built as shown above and formed by using the Engineer's Hammer on the central cauldron, from the side that has the Engineering Blocks.
-Items can be input into the Fermenter via the two hatches at the back that are marked with blue dots. The hatch with the orange dot serves as an item output and the block below it to output fluids.
-Applying a redstone signal to the control panel at the front will halt the machine's process, this behavior can be inverted by use of the Engineer's Hammer.
-<np>The following list shows various items that can be fermented into ethanol, and the amount they produce.<&list>
+工業發酵機
+乾杯！
+工業發酵機是一台能將特定水果、穀物以及蔬菜發酵為乙醇的多方塊設備. 其結構如上圖所示，並需要工程師槌子敲擊帶工程塊一面中間的大鍋以完成組裝.
+物品可從帶有藍色點的兩個艙室輸入.帶有橙色點的艙室可用於輸出物品，而其下方的方塊則可用於液體輸出.
+前面的控制面板上施加紅石信號會停止機器，可以用工程師的錘子來反轉.
+<np>以下列表顯示了可以發酵成乙醇的各種物品，以及它們產生的量。.<&list>
