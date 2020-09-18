@@ -1,12 +1,11 @@
-Fluid Transport
-Professional Plumber
-<&pipe_recipe>Transporting fluids has become quite essential in the engineering business. Fluid Pipes and Fluid Pumps do exactly that. On their own, Fluid Pipes are quite slow at transferring fluids, but if a pump is used to insert the fluid, it'll move much faster.<np>
-You can rightclick the connection piece of a pipe with an Engineer's Hammer to prevent it from connecting to that side.
-Fluid Pipes can be covered with wooden or steel scaffolding. Simply rightclick a piece of scaffolding onto a pipe to cover it. Break the pipe to retrieve the scaffolding.<np>
-<&pump_recipe>Fluid Pumps have three essential functions. They can be used to insert into pipes at high pressure, to transfer fluids much faster, or they can pick up fluids from the world.
-Using you hammer on the base of the pump will switch the sides between in- and output.<np>
-In order for the pump to pick up fluid blocks, it will need a power input at the top and a redstone signal. Pumps can also be used to extract from tanks and other fluid containers that do not have an automatic output. This will also require a redstone signal, but won't consume power.<np>
-Water blocks will serve as an infinite fluid source for the pump, as long as more than 3 blocks are connected.
+液體傳輸
+專業水管工
+<&pipe_recipe>液體傳輸在工程業變得越發重要.輸液管和液泵就是幹這個的.單獨使用，輸液管的液體傳輸速率較低，但如果用液泵輸入液體，速度便會增快不少.<np>
+通過用工程師槌右擊一個管道來防止它與其他管道連接.
+輸液管可以嵌入木製或鋼製鷹架中.只需手持鷹架右擊管道即可.破壞管道會返還鷹架.<np>
+<&pump_recipe>液泵有兩個重要功能.它們能夠用於將液體高壓泵入管道中，讓傳輸速率變快，或者它們還能夠從世界當中抽取液體.用工程師槌右擊液泵底部會轉換輸入輸出端.<np>
+為了使液泵能夠抽取液體方塊，它需要從頂部接受能量以及一個紅石信號.液泵同樣能夠用於從一些無法自動輸出的儲罐或液體容器中抽取液體.這同樣需要紅石信號，不過並不需要能量.<np>
+只要連接了3個以上的水，水將作為泵的無限流體源.
 
-Fluid blocks that were picked up will be replaced with cobblestone to reduce lag of flowing fluids. This behavior can be toggled off and on by using an Engineer's Hammer on the pump.<np>
-<&outlet_recipe>The Fluid Outlet acts as an endpoint for a pipe system, allowing Fluid to be placed in the world. The sides can be configured between input, output (open gate) or closed, a redstone signal can be used to turn the outlet off. The block will only ever output fluid up to its own heightlevel.
+被抽取的水將以圓石取代，以減少流動水. 這種模式可以用工程師錘關閉.<np>
+<&outlet_recipe>液體放置器可以當成管道系統的終點，它可以將液體放置到世界中。這些側面可以在輸入、輸出、關閉中切換，可以使用一個紅石訊號將機器關閉。這個機器只會將液體輸出到和自身一樣的高度。
