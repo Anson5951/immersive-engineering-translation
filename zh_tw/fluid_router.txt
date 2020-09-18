@@ -1,6 +1,6 @@
-Fluid Router
-Milk goes left, acid goes right
-<&recipe>The Fluid Router works much akin to the <link;item_router;Item Router;start>. Fluids input through any side will be redistributed based on how the six side filters are set up.
-Clicking a bucket or any other type of fluid container into the slots of the GUI will configure the filter to that fluid.<np>
-When any fluids are piped into the router, they will be routed to an output whose filter matches the fluid, or, if no matching filter is found, the fluid routes to an unfiltered output. If there is no available or valid route, no fluid will be accepted.
-The buttons above each filter can be used to have the router respect or ignore the fluid's NBT data.
+液體路由器
+牛奶請往左，強酸請往右
+<&recipe>液體路由器的工作原理和 <link;item_router;物品路由器;start>很像. 通過任何一側輸入的流體將根據六個過濾器的設置方式進行過濾.
+將桶子或任意類型的液體容器放到 GUI 中的欄位中，可以將過濾器設定為該液體.<np>
+當任何液體流入路由器時，它們將被導向到一個和過濾器匹配的出口。如果沒有任何匹配的過濾器，則液體會被導向未過濾的輸出。如果沒有可用或有效的路由，機器不會接受液體.
+每個過濾器上方的按鈕都可以讓路由器允許或忽略NBT標籤.
