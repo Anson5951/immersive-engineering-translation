@@ -1,16 +1,12 @@
-Mineral Deposits
-Oresome
-The deposits of Ore found around your world are nothing new to you. What you have so far left out of consideration though are mineral veins, which contain a mix of different ores. Due to their wide and thin spread, the average miner can't find them, but a <link;excavator;§o§nspecial §o§nmachine§r> might be able to assist with that.
-<&survey_tools>To begin looking for mineral veins, you'll want to craft some §2Survey Tools§r. By venturing out and using these tools on various blocks of natural soil, you can identify veins and find their approximate positions.
+礦脈
+有關礦物
+在你的世界中發現的礦床分佈對你來說並不新鮮.而如今我們一直忽略的是礦脈，其中混合著多種礦石的存在.由於它們細長的分佈，普通的礦工難以發現它們，但一種 <link;excavator;§o§n特殊機器§r> 或許能夠提供一些幫助.
+<&survey_tools>為了尋找並確定分佈在世界中的礦產需要一個 §2探查工具§r. 通過嘗試在各種天然土壤上使用這個工具， 可以識別礦脈並找到它們的大概位置。
+沿相同方向採集的每個樣本會更準確地了解其包含的內容以及產生的地點。 請注意，礦脈可能重疊，因此可能會發現彼此非常接近且不同礦脈的痕跡。<np>
+<&sample_drill>在縮小礦脈的探查範圍後，, 用 §2岩芯鑽井§r 可以精確讀取在確切位置發現的礦脈。
+提供電源，並右擊或提供一個紅石信號來啟動鑽井.它將會鑽入區塊，提取出能確定分佈礦物的種類的岩芯樣本.鑽井消耗 <config;i;machines.coredrill_consumption> Flux/t 能量來提取岩心樣本，以提供有關礦脈的詳細信息。<np>
+<&core_sample>該樣本不僅會告訴你哪裡確切地發現了什麼礦物，它們的相對存在，, 也包括它們各自的 §2飽和度§r. 較高的飽和度意味著挖掘機挖滿斗輪的機會更大.
 
-Each sample you take of the same vein gets you a more accurate read on what it contains and where it origi- nates. Note that veins can overlap, so you may find traces of different veins quite close to each other.
-<np>
-<&sample_drill>After narrowing down the type and position of the vein, use a §2Core Sample Drill§r to get a precise read on what veins are found at an exact position.
-Supply the machine with power and rightclick it or use redstone to activate it. The drill consumes <config;i;machines.coredrill_consumption> Flux/t to then extract a core sample at its location which provides detailed information on the mineral vein.
-<np>
-<&core_sample>The sample will not only tell you exactly what minerals are found there, including their relative presence, but also their individual §2saturation§r. A higher saturation means a higher chance for an excavator to fill its bucket wheel.
+潛行+右鍵單擊一個岩芯樣本以將其放置在世界中，使你能讀取其位置和信息。 此外，在放置後可以在地圖上單擊鼠標右鍵，以在該位置標記其原始位置。
 
-Sneak + rightclick a core sample to place it in the world, allowing you to read its position and information. Additionally, when placed, you can rightclick it with a map in order to mark its original position on there.
-
-The following pages list every type of vein and the ores that can be retrieved from them.
-<np>
+以下頁面列出了每種類型的礦脈以及可以從中檢索的礦石。<np>
