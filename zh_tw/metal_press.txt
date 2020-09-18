@@ -1,7 +1,7 @@
-Metal Press
-Under Pressure!
-<&multiblock>The Metal Press is an automated way of shaping metal. It uses a high pressure piston to press a mold onto an ingot, forming it into a plate, rod or other metal components.
-The structure is created as shown above, to form the multiblock, click the piston with an Engineer's Hammer. Power is input through the top, and items through the conveyors, obviously in the direction of movement. The lower middle block is the redstone control port, rightclicking it with an Engineer's Hammer allows you to invert the redstone control.<np>
-<&mold_blueprint>To actually work, the metal press requires a mold to be attached to the piston. These molds are created in the <link;workbench;§o§nEngineer's §o§nWorkbench§r> using the blueprint displayed above.<np>
-<&mold_recipes>Molds are crafted as shown above, with the wirecutter taking some damage for every crafting operation. They are then inserted into the metal press by right-clicking the multiblock with a mold in hand.<np>
-<&packing>The packing and unpacking molds can be used to compress 4 or 9 of the same item into their relevant storage form, as well as unpack them again. This can be utilized to store ingots as blocks, or automatically create simple blocks like Sandstone.
+金屬沖壓機
+壓力山大！
+<&multiblock>金屬沖壓機可用於自動將金屬擠壓成型.它的原理是用高壓活塞將模具壓到金屬錠上，以將金屬錠擠壓為板材，桿或其他金屬零件.
+沖壓機結構如上圖所示，用工程師槌敲擊活塞來完成搭建. 能量從上方輸入，物品通過輸送帶，沿著其顯示方向輸入輸出.底層中間的方塊便是紅石控制介面，手持工程師槌右擊可對其進行反相.<np>
+<&mold_blueprint>若想正常運作，需要在活塞上加裝一個模具.手持模具右鍵即可放入. 模具是用藍圖在 <link;workbench;§o§n工程師裝配台§r> 上所製造的.<np>
+<&mold_recipes>模具的製作方法如上所示。剪線鉗在剪線時都會受到一定程度的損壞，在這能用機器取代。拿著線纜模具右鍵就可以將它們插入到金屬沖壓機中。<np>
+<&packing>裝箱和拆箱模具可用於將4件或9件相同的物品壓入相關的儲存形式，並且可以再度拆回原本物品。這可以用來將錠合成為塊來儲存，或者自動製作簡單的方塊，如：砂岩。
