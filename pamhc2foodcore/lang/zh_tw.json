@@ -14,11 +14,11 @@
 	"item.pamhc2foodcore.flouritem": "麵粉",
 	"item.pamhc2foodcore.doughitem": "麵團",
 	"item.pamhc2foodcore.toastitem": "吐司",
-	"item.pamhc2foodcore.grilledcheeseitem": "烤奶酪",
+	"item.pamhc2foodcore.grilledcheeseitem": "烤起司吐司",
 	"item.pamhc2foodcore.carrotbreaditem": "蘿蔔吐司",
 	"item.pamhc2foodcore.pumpkinbreaditem": "南瓜吐司",
 	"item.pamhc2foodcore.pastaitem": "義大利麵",
-	"item.pamhc2foodcore.macncheeseitem": "通心粉",
+	"item.pamhc2foodcore.macncheeseitem": "起司通心麵",
 	"item.pamhc2foodcore.noodlesoupitem": "湯麵",
 	"item.pamhc2foodcore.applepieitem": "蘋果派",
 	"item.pamhc2foodcore.sweetberrypieitem": "漿果派",
@@ -152,6 +152,6 @@
 	"item.pamhc2foodcore.bakedvegetablemedlyitem": "烤野菜",
 	"item.pamhc2foodcore.fruitsaladitem": "水果沙拉",
 	"item.pamhc2foodcore.meatloafitem": "美式肉餅",
-	"item.pamhc2foodcore.p8juiceitem": "P8 Juice",
+	"item.pamhc2foodcore.p8juiceitem": "P8果汁",
 	"item.pamhc2foodcore.fruitcrumbleitem": "英式水果奶酥"
 }
