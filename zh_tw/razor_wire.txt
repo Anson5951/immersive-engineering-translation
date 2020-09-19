@@ -1,4 +1,4 @@
-Razorwire
-Oversized eggslicer
-<&recipe>Razorwire is a wire with sharpened pieces of metal attached. It will slow and cut any entity that tries to move through it.
-Razorwire can only be removed with Wirecutters, any other attempts will damage the player. Additionally, an LV wire can be connected to electrify the razorwire for extra damage.
+刺網
+大型切蛋器
+<&recipe>刺網是附著金屬刺的線圈。它會減慢和切斷任何試圖穿過它的物體。
+刺網只能使用工程師剪線鉗移除，任何其他方法都會傷害玩家。可以連接電線為刺網通電以造成更多的傷害。
